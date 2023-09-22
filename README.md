@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @s1and1
 - 👀 I’m interested in development 3D Games
-- 🌱 I’m currently learning Vulkan, DirectX
+- 🌱 I’m currently learning Vulkan, DirectX, Reverse Engineering
 - 💞️ I’m looking to collaborate on Vk
 - 📫 How to reach me vk.com/s1and1
 
